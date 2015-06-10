@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "Favours4Favours"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-Favours-d3685e9d-5653-408e-8780-52fbd9aaa54a;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
